@@ -103,5 +103,12 @@ Future analysis can include:
 
 Customer segmentation
 Repeat customer behavior
+
+🙌 Author
+👨‍💻 Vishwajeet
+
+Aspiring Data Analyst | Python | SQL | Power BI | Excel
+
+⭐ If you like this project, give it a star on GitHub!
 Product category profitability
 Predictive delivery delay modeling
